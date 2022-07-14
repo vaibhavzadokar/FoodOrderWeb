@@ -27,7 +27,7 @@
                         <th>Customer Name</th>
                         <th>Contact</th>
                         <th>Email</th>
-                        <th>Address</th>
+                        <th>Table</th>
                         <th>Actions</th>
                     </tr>
 

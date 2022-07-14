@@ -120,6 +120,9 @@ table tr td{
 
 /* CSS for Footer */
 .footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: #ff4757;
     color: white;
 }
